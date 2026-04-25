@@ -75,5 +75,5 @@ jupyter notebook notebooks/01_eda.ipynb
 ```
 
 ## 👤 Author
-**Karan S** | Aspiring Data Scientist  
-[LinkedIn](https://linkedin.com/in/karans22) | [GitHub](https://github.com/karans22)
+**Karan Sharma** | Aspiring Data Scientist  
+[LinkedIn](https://www.linkedin.com/in/karan-sharma-b72478227/) | [GitHub](https://github.com/karans22)
